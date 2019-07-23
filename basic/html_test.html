@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>this is a title</title>
+
+</head>
+<body>
+
+<h1>heading1:换行测试</h1>
+<p>
+    换行测试1<br/>
+    换行测试2<br/>
+</p>
+
+<h1>heading2:插入链接</h1>
+<p>
+    <a id="baidu" href="//www.baidu.com" target="_blank">百度一下</a> <br/>
+</p>
+
+<h1>heading3:插入图片</h1>
+<p>
+    this is a dog image:<br/>
+    <img src="https://img5.duitang.com/uploads/item/201411/26/20141126214143_EtNCX.thumb.700_0.jpeg" alt="this is a dog" border="5" width="200" height="200"><br/>
+    it it cute
+</p>
+
+<h1>heading2:插入表格</h1>
+<p>
+<table border="2" cellpadding="5" cellspacing="5">
+    <!--一对tr表示有一行，每对tr有多少对td表示有多少列-->
+    <tr>
+        <td align="center" colspan="3" bgcolor="#7fffd4">table header</td>
+        <!--合并单元格：将这一行的3列单元格并为1列-->
+
+    </tr>
+
+    <tr>
+        <td rowspan="2">row1&2,cell1</td>
+        <td>row1,cell2</td>
+        <td>row1,cell3</td>
+    </tr>
+    <tr>
+        <!--row1,cell1会和row2,cell1合并，所以这一行是需要定义两列<td>row2,cell1</td> -->
+        <td>row2,cell2</td>
+        <td>row2,cell3</td>
+    </tr>
+    <tr>
+        <td>row3,cell1</td>
+        <td>row3,cell2</td>
+        <td>row3,cell3</td>
+    </tr>
+    <tr>
+        <td>row4,cell1</td>
+        <td>row4,cell2</td>
+        <td>row4,cell3</td>
+    </tr>
+
+
+
+
+</table>
+</p>
+
+
+
+
+
+
+
+</body>
+</html>
