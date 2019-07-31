@@ -1,16 +1,10 @@
-from selenium import webdriver
 import time
+from selenium import webdriver
 driver=webdriver.Chrome()
 driver.implicitly_wait(5)
-
-driver.get("https://www.baidu.com/")
-#获得百度搜索窗口句柄
-
-
-driver.find_element_by_link_text("登录").click()
-#time.sleep(1)
-
-#进入注册窗口
-driver.find_element_by_xpath("//*[@id='passport-login-pop-dialog']/div/div/div/div[4]/a").click()
+driver.get("http://www.baidu.com")
+driver.find_element_by_id('kw').send_keys('test1')
 time.sleep(2)
-
+driver.find_element_by_id('su').click()
+time.sleep(2)
+print(driver.title)
