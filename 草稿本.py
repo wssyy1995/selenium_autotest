@@ -1,10 +1,15 @@
-import time
+
 from selenium import webdriver
-driver=webdriver.Chrome()
-driver.implicitly_wait(5)
-driver.get("http://www.baidu.com")
-driver.find_element_by_id('kw').send_keys('test1')
-time.sleep(2)
-driver.find_element_by_id('su').click()
-time.sleep(2)
-print(driver.title)
+
+driver = webdriver.Chrome()
+driver.implicitly_wait(10)
+
+
+user_data_dir = ("/Users/suyayan/Library/Application Support/Google/Chrome")
+# 加载配置数据
+option = webdriver.ChromeOptions()
+option.add_argument(user_data_dir)
+# 启动浏览器配置
+driver = webdriver.Chrome(chrome_options=option,
+                          executable_path="/Applications/Google Chrome.app")
+driver.get("https://aminoapps.com")

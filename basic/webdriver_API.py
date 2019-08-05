@@ -319,7 +319,9 @@ from selenium.webdriver.support import expected_conditions as EC
 # time.sleep(1)
 # driver.set_window_size(600,600)
 # time.sleep(1)
-# js="window.scrollTo(200,200)" #window.scrollTo(左边距，上边距)
+# js="window.scrollTo(200,200)"  #window.scrollTo(左边距，上边距)
+#将页面的滚动条滑动到页面的最下方
+#js="window.scrollTo(100, document.body.scrollHeight)"
 # time.sleep(1)
 # driver.execute_script(js)
 

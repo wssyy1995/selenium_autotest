@@ -42,10 +42,7 @@ class Baidu(unittest.TestCase):
 # suite=unittest.TestSuite()
 # suite.addTest(Baidu('test_baidu_search'))
 # suite.addTest(Baidu('test_baidu_search2'))
-#
-#
-#
-#
+
 # #定义报告存放路径
 # report=open('./'+time.ctime()+'.html','wb')
 # #定义测试报告

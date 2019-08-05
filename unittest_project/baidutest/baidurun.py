@@ -1,8 +1,28 @@
 import unittest,time
 from HTMLTestRunner import HTMLTestRunner
-import smtpd
+import smtplib
 import os
-from email.mime.text import
+from email.mime.text import MIMEText
+from email.header import Header
+
+
+#定义发送邮件
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

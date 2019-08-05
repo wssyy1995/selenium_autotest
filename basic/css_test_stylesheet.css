@@ -1,0 +1,134 @@
+/*（1）css如何引用*/
+/* 1.直接在标签内加style="样式1；样式2；"*/
+/* 2：在head中通过style标签定义*/
+/* 3：在head中通过link标签链接外部样式表*/
+
+
+/*（2）css语法：*/
+/*  选择器{样式1；样式2；样式3}*/
+
+
+
+
+
+/*(3)css查找标签的方式（选择器）*/
+/*   1.基本选择器*/
+/*        标签选择器:p{}*/
+/*        id选择器：#id{}*/
+/*        类选择器：.c1{}*/
+/*    2.通用选择器：一般用于全局的样式*/
+/*        比如：*{font-family:"微软雅黑";font-size:20px;}*/
+p{color:greenyellow;font-size:38px;}
+
+#baidu{
+    color:deepskyblue;
+    font-size: 35px;
+    font-weight: bolder;}
+#baidu2{
+    color:lightblue;
+    font-size: 24px;
+    font-weight: bold;
+    font-family:"微软雅黑","Microsoft Yahei","Arial";}
+
+.c1{
+    color: #cc0000;
+    background-color: darkorange;
+    }
+div.c2{
+    font-size: 30px;
+
+    background-image: url("putao.png");
+
+
+    width:100px;
+    height:100px;
+}
+
+div.c3{
+    height:400px;
+    width:20%;
+    background-color: #66cc66;
+}
+
+div.c4{
+    height:500px;
+    width:80%;
+    background-color: red;
+
+}
+
+
+
+
+/*(4)css选择器的优先级：*/
+/*    1.内联样式（直接在标签里定义的style）优先级最高*/
+/*    2.样式文件优先级：选择器都一样的情况下，程序从上往下运行，下面的文件会覆盖*/
+/*    3.选择器不一样的情况：id>类>标签*/
+
+
+/*（5）css属性*/
+
+/*1.文字属性*/
+/*  文字字体：font-family:"微软雅黑","Microsoft Yahei","Arial"  ，作为"回退"系统来保存，如果浏览器根据顺序来选择*/
+/*  字体大小：font-size:20px;*/
+/*  字重（粗细）：font-weight:bold;*/
+/*  对齐：text-align:right/left/justify*/
+
+/*2.背景属性*/
+/*  背景颜色：background-color:red;*/
+/*  背景图片：background-image: url("putao.png");
+ */
+
+
+/*(6)浮动float:div配合float进行页面布局*/
+
+/*float:left/right;一直往上面浮动，并向左边/右边贴合*/
+
+/*清除浮动：在需要清除浮动的元素上面建立一个div，添加clear:both属性*/
+
+
+
+
+
+div.c3{
+    height:400px;
+    width:20%;
+    background-color: #66cc66;
+    float:left;
+
+}
+
+div.c5 {
+    height: 600px;
+    width: 20%;
+    background-color: orchid;
+    float: left;
+}
+
+div.fc{
+ clear:both;
+    height: 5px;
+}
+
+
+
+
+div.c4{
+    height:500px;
+    width:20%;
+    background-color: red;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
