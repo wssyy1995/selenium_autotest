@@ -2,13 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7b485ba-d769-4961-8cde-0e17aca76d08" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/unittest_frame/basic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amino_project/Explore_search_browse/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amino_project/Explore_search_browse/explore_search_browse_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amino_project/Explore_search_browse/report_ex_sea_brow/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amino_project/Explore_search_browse/runtest_ex_sea_bro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amino_project/Explore_search_browse/testcase_exp_sea_bro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amino_project/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amino_project/test_signup_login/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amino_project/test_signup_login/report_signup_login/Sun Aug  4 15:25:57 2019.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amino_project/test_signup_login/report_signup_login/Sun Aug  4 15:28:28 2019.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amino_project/test_signup_login/report_signup_login/Sun Aug  4 15:49:04 2019.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amino_project/test_signup_login/report_signup_login/Sun Aug  4 15:51:58 2019.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amino_project/test_signup_login/report_signup_login/Sun Aug  4 15:53:07 2019.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amino_project/test_signup_login/report_signup_login/Sun Aug  4 15:55:08 2019.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amino_project/test_signup_login/report_signup_login/Sun Aug  4 17:44:52 2019.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amino_project/test_signup_login/report_signup_login/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amino_project/test_signup_login/runtest.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittest_frame/runtest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amino_project/test_signup_login/signup_login_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amino_project/test_signup_login/testcase_signup_log_in.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/basic/webdriver_API.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic/webdriver_API.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/casual_issue/other_issue.py" beforeDir="false" afterPath="$PROJECT_DIR$/casual_issue/other_issue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unittest_project/baidutest/Wed Jul 31 19:15:59 2019.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unittest_project/baidutest/baidu_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittest_project/baidutest/baidu_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common_function/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common_function/bdaction.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/unittest_project/baidutest/baidurun.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittest_project/baidutest/baidurun.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unittest_project/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittest_project/calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unittest_project/testpro/testadd.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittest_project/testpro/testadd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest_project/calculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest_project/send_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/unittest_frame/send_email.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest_project/testcase.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest_project/testpro/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest_project/testpro/count.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest_project/testpro/runtest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest_project/testpro/testadd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest_project/testpro/testdev.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest_project/testpro/testmul.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/unittest_project/testpro/testsub.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/草稿本.py" beforeDir="false" afterPath="$PROJECT_DIR$/草稿本.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,10 +47,51 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic/webdriver_API.py">
+        <entry file="file://$PROJECT_DIR$/unittest_frame/runtest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="323" column="54" selection-start-line="323" selection-start-column="54" selection-end-line="323" selection-end-column="54" />
+            <state relative-caret-position="66">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unittest_frame/basic.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-315">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unittest_frame/send_email.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="86">
+              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unittest_project/baidutest/baidurun.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="e#0#20#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/unittest_project/baidutest/baidu_test2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
               <folding>
                 <element signature="e#0#30#0" expanded="true" />
               </folding>
@@ -32,95 +100,34 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amino_project/test_signup_login/runtest.py">
+        <entry file="file://$PROJECT_DIR$/unittest_project/baidutest/baidu_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+            <state relative-caret-position="625">
+              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
               <folding>
-                <element signature="e#365#380#0" expanded="true" />
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/草稿本.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2430">
+              <caret line="162" selection-start-line="162" selection-end-line="172" selection-end-column="13" />
+              <folding>
+                <marker date="1586778782746" expanded="true" signature="1588:1845" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Amino_project/Explore_search_browse/explore_search_browse_model.py">
+        <entry file="file://$PROJECT_DIR$/note/casual_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amino_project/Explore_search_browse/testcase_exp_sea_bro.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="39">
-              <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amino_project/test_signup_login/signup_login_model.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="505">
-              <caret line="47" column="12" lean-forward="true" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amino_project/Explore_search_browse/runtest_ex_sea_bro.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/unittest_project/testpro/testdev.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/unittest_project/testpro/testadd.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="27" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="7" selection-end-column="27" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/unittest_project/testcase.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="68" column="21" lean-forward="true" selection-start-line="68" selection-start-column="21" selection-end-line="68" selection-end-column="21" />
-              <folding>
-                <element signature="e#17#32#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amino_project/test_signup_login/testcase_signup_log_in.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="584">
-              <caret line="47" column="26" lean-forward="true" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="338">
+              <caret line="47" column="14" lean-forward="true" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -139,7 +146,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>input</find>
       <find>su</find>
       <find>sleep</find>
       <find>switch</find>
@@ -151,7 +157,6 @@
       <find>module 'unittest' has no attribute 'TestCase'</find>
       <find>IO</find>
       <find>StringIO</find>
-      <find>assert</find>
       <find>runner=HTMLTestRunner</find>
       <find>prime</find>
       <find>console.log(sum);</find>
@@ -162,14 +167,19 @@
       <find>checkbox</find>
       <find>bu</find>
       <find>button</find>
-      <find>discover</find>
       <find>dis</find>
       <find>clear</find>
       <find>htmlt</find>
       <find>implicitly_wai</find>
       <find>Nosu</find>
       <find>js</find>
+      <find>discover</find>
+      <find>assert</find>
+      <find>定位</find>
     </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -177,10 +187,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/basic/the_first_auto_script.py" />
-        <option value="$PROJECT_DIR$/草稿本.html" />
-        <option value="$PROJECT_DIR$/Html 草稿本.html" />
-        <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/basic/html_test.html" />
         <option value="$PROJECT_DIR$/auto_test_model/bdloginout.py" />
         <option value="$PROJECT_DIR$/auto_test_model/bdaction.py" />
@@ -200,7 +206,6 @@
         <option value="$PROJECT_DIR$/unittest_project/testpro/runtest.py" />
         <option value="$PROJECT_DIR$/unittest_project/baidutest/baidu_test2.py" />
         <option value="$PROJECT_DIR$/unittest_project/baidutest/baidu_test.py" />
-        <option value="$PROJECT_DIR$/unittest_project/baidutest/baidurun.py" />
         <option value="$PROJECT_DIR$/unittest_project/send_email.py" />
         <option value="$PROJECT_DIR$/basic/css_basic.html" />
         <option value="$PROJECT_DIR$/basic/css_test_stylesheet.css" />
@@ -210,10 +215,8 @@
         <option value="$PROJECT_DIR$/basic/js_basic.js" />
         <option value="$PROJECT_DIR$/Amino_project/test_signup_login/test_signup.py" />
         <option value="$PROJECT_DIR$/Amino_project/test_signup_login/signup_login_model.py" />
-        <option value="$PROJECT_DIR$/unittest_project/testcase.py" />
         <option value="$PROJECT_DIR$/unittest_project/testpro/testadd.py" />
         <option value="$PROJECT_DIR$/Amino_project/test_signup_login/runtest.py" />
-        <option value="$PROJECT_DIR$/草稿本.py" />
         <option value="$PROJECT_DIR$/Amino_project/test_sc_jo_lea_community/runtest.py" />
         <option value="$PROJECT_DIR$/Amino_project/test_sc_jo_lea_community/runtest_sc_jo_lea.py" />
         <option value="$PROJECT_DIR$/Amino_project/test_sc_jo_lea_community/report_sc_jo_lea/testcase_sc_jo_lea.py" />
@@ -227,7 +230,14 @@
         <option value="$PROJECT_DIR$/casual_issue/other_issue.py" />
         <option value="$PROJECT_DIR$/Amino_project/Explore_search_browse/testcase_exp_sea_bro.py" />
         <option value="$PROJECT_DIR$/Amino_project/Explore_search_browse/explore_search_browse_model.py" />
+        <option value="$PROJECT_DIR$/unittest_project/baidutest/baidurun.py" />
+        <option value="$PROJECT_DIR$/unittest_project/testcase.py" />
+        <option value="$PROJECT_DIR$/unittest_project/unittest_frame/run_test.py" />
+        <option value="$PROJECT_DIR$/unittest_project/unittest_frame/basic.py" />
+        <option value="$PROJECT_DIR$/unittest_frame/basic.py" />
         <option value="$PROJECT_DIR$/basic/webdriver_API.py" />
+        <option value="$PROJECT_DIR$/草稿本.py" />
+        <option value="$PROJECT_DIR$/unittest_frame/runtest.py" />
       </list>
     </option>
   </component>
@@ -238,11 +248,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="211" />
-    <option name="y" value="47" />
-    <option name="width" value="1069" />
-    <option name="height" value="780" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="36" />
+    <option name="y" value="23" />
+    <option name="width" value="1528" />
+    <option name="height" value="797" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -252,6 +262,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -262,23 +273,33 @@
             <path>
               <item name="selenium_autotest" type="b2602c69:ProjectViewProjectNode" />
               <item name="selenium_autotest" type="462c0819:PsiDirectoryNode" />
-              <item name="Amino_project" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="selenium_autotest" type="b2602c69:ProjectViewProjectNode" />
               <item name="selenium_autotest" type="462c0819:PsiDirectoryNode" />
-              <item name="casual_issue" type="462c0819:PsiDirectoryNode" />
+              <item name="note" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="selenium_autotest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium_autotest" type="462c0819:PsiDirectoryNode" />
+              <item name="unittest_frame" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="selenium_autotest" type="b2602c69:ProjectViewProjectNode" />
               <item name="selenium_autotest" type="462c0819:PsiDirectoryNode" />
               <item name="unittest_project" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="selenium_autotest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="selenium_autotest" type="462c0819:PsiDirectoryNode" />
+              <item name="unittest_project" type="462c0819:PsiDirectoryNode" />
+              <item name="baidutest" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -286,7 +307,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/basic" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -296,6 +317,8 @@
       <recent name="$PROJECT_DIR$/basic" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/unittest_project/unittest_frame" />
       <recent name="$PROJECT_DIR$/unittest_project" />
     </key>
   </component>
@@ -311,7 +334,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.runtest">
+  <component name="RunManager" selected="Python.草稿本">
     <configuration name="Unnamed" type="JavascriptDebugType" nameIsGenerated="true" uri="file://$PROJECT_DIR$/basic/js_basic.js">
       <method v="2" />
     </configuration>
@@ -319,6 +342,28 @@
       <method v="2" />
     </configuration>
     <configuration name="testhtml_css&amp;js.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/selenium_autotest/basic/testhtml_css&amp;js.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="草稿本" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="selenium_autotest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/草稿本.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="runtest" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -334,7 +379,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Amino_project/test_signup_login/runtest.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/unittest_project/unittest_frame/runtest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -365,15 +410,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests in basic.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="selenium_autotest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/unittest_frame" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/unittest_frame/basic.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="JavaScript Debug.Unnamed" />
       <item itemvalue="JavaScript Debug.css_test.html" />
       <item itemvalue="JavaScript Debug.testhtml_css&amp;js.html" />
       <item itemvalue="Python.testcase_exp_sea_bro" />
       <item itemvalue="Python.runtest" />
+      <item itemvalue="Python.草稿本" />
+      <item itemvalue="Python tests.Unittests in basic.py" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.草稿本" />
+        <item itemvalue="Python tests.Unittests in basic.py" />
         <item itemvalue="JavaScript Debug.testhtml_css&amp;js.html" />
         <item itemvalue="JavaScript Debug.css_test.html" />
       </list>
@@ -393,6 +457,9 @@
       <workItem from="1564129680827" duration="5686000" />
       <workItem from="1564136472999" duration="8440000" />
       <workItem from="1564547964690" duration="62663000" />
+      <workItem from="1586322138235" duration="38225000" />
+      <workItem from="1586677385109" duration="6320000" />
+      <workItem from="1587003470970" duration="240000" />
     </task>
     <servers />
   </component>
@@ -400,20 +467,25 @@
     <history-entry file="Unittests_in_testcase_py - 2019.07.31 at 12h 40m 51s.xml">
       <configuration name="Unittests in testcase.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_basic_py - 2020.04.10 at 15h 29m 45s.xml">
+      <configuration name="Unittests in basic.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_basic_py - 2020.04.10 at 15h 30m 18s.xml">
+      <configuration name="Unittests in basic.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="133783000" />
+    <option name="totallyTimeSpent" value="178568000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="211" y="47" width="1069" height="780" extended-state="1" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49642858" visible="true" weight="0.23369037" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49642858" visible="true" weight="0.18669528" />
       <window_info id="Structure" order="1" sideWeight="0.50357145" side_tool="true" weight="0.6505376" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.39244187" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4394366" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -441,13 +513,11 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/basic/js_basic.js</url>
           <line>14</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/basic/js_basic.js</url>
           <line>166</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
@@ -455,6 +525,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/selenium_autotest$bdaction.coverage" NAME="bdaction Coverage Results" MODIFIED="1564204604006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common_function" />
+    <SUITE FILE_PATH="coverage/selenium_autotest$Unittests_in_basic_py.coverage" NAME="Unittests in basic.py Coverage Results" MODIFIED="1586503818225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_project/unittest_frame" />
     <SUITE FILE_PATH="coverage/selenium_autotest$test.coverage" NAME="test Coverage Results" MODIFIED="1564547843484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest" />
     <SUITE FILE_PATH="coverage/selenium_autotest$baidu_test.coverage" NAME="baidu_test Coverage Results" MODIFIED="1564570270346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_project/baidutest" />
     <SUITE FILE_PATH="coverage/selenium_autotest$testcase_signup_log_in.coverage" NAME="testcase_signup_log_in Coverage Results" MODIFIED="1564902868011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amino_project/test_signup_login" />
@@ -471,137 +542,13 @@
     <SUITE FILE_PATH="coverage/selenium_autotest$tesecase_sc_jo_lea.coverage" NAME="tesecase_sc_jo_lea Coverage Results" MODIFIED="1564906915619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amino_project/test_sc_jo_lea_community" />
     <SUITE FILE_PATH="coverage/selenium_autotest$baidu_test2.coverage" NAME="baidu_test2 Coverage Results" MODIFIED="1564571590367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_project/baidutest" />
     <SUITE FILE_PATH="coverage/selenium_autotest$testcase_exp_sea_bro.coverage" NAME="testcase_exp_sea_bro Coverage Results" MODIFIED="1564911778165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Amino_project/Explore_search_browse" />
-    <SUITE FILE_PATH="coverage/selenium_autotest$.coverage" NAME="草稿本 Coverage Results" MODIFIED="1564905587084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/selenium_autotest$.coverage" NAME="草稿本 Coverage Results" MODIFIED="1586778783254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/selenium_autotest$send_email.coverage" NAME="send_email Coverage Results" MODIFIED="1564586995946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_project" />
     <SUITE FILE_PATH="coverage/selenium_autotest$Unittests_in_testcase_py.coverage" NAME="Unittests in testcase.py Coverage Results" MODIFIED="1564548051087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_project" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Html 草稿本.html" />
-    <entry file="file://$PROJECT_DIR$/auto_test_model/bdloginout.py" />
-    <entry file="file://$PROJECT_DIR$/auto_test_model/bdaction.py" />
-    <entry file="file://$PROJECT_DIR$/定位元素问题集合.py" />
-    <entry file="file://$PROJECT_DIR$/casual_issue/element_locate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unittest_project/test.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unittest_project/testpro/count.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unittest_project/testpro/testmul.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unittest_project/testpro/testsub.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python3.7/site-packages/HTMLTestRunner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="93" column="9" selection-start-line="93" selection-start-column="9" selection-end-line="93" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unittest_project/baidutest/result.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-703" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/auto_test_model/auto_test_model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="75" selection-start-line="75" selection-end-line="75" />
-          <folding>
-            <element signature="e#1467#1497#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unittest_project/testpro/count.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="28" selection-start-line="4" selection-start-column="4" selection-end-line="5" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common_function/bdaction.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unittest_project/baidutest/baidu_test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unittest_project/send_email.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/geckodriver.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/css_basic.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/css_test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="155" lean-forward="true" selection-end-line="184" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#table#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#table#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#table#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#table#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#table#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#0;n#table#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unittest_project/calculator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/css_basic.html" />
+    <entry file="file://$PROJECT_DIR$/basic/css_test.html" />
     <entry file="file://$PROJECT_DIR$/basic/html_test.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-177">
@@ -650,143 +597,103 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Amino_project/test_signup_login/test_signup.py">
+    <entry file="file://$PROJECT_DIR$/Amino_project/test_signup_login/test_signup.py" />
+    <entry file="file://$PROJECT_DIR$/Amino_project/test_signup_login/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/unittest_project/baidutest/baidu_test.py">
+    <entry file="file://$PROJECT_DIR$/Amino_project/test_signup_login/report_signup_login/Sun Aug  4 15:25:57 2019.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amino_project/test_sc_jo_lea_community/runtest.py" />
+    <entry file="file://$PROJECT_DIR$/Amino_project/test_sc_jo_lea_community/report_sc_jo_lea/testcase_sc_jo_lea.py" />
+    <entry file="file://$PROJECT_DIR$/Amino_project/test_sc_jo_lea_community/tesecase_sc_jo_lea.py" />
+    <entry file="file://$PROJECT_DIR$/Amino_project/test_sc_jo_lea_community/notname/test2.py" />
+    <entry file="file://$PROJECT_DIR$/Amino_project/test_sc_jo_lea_community/testname/test1.py" />
+    <entry file="file://$PROJECT_DIR$/Amino_project/test_sc_jo_lea_community/runtest_sc_jo_lea.py" />
+    <entry file="file://$PROJECT_DIR$/Amino_project/test_sc_jo_lea_community/sc_jo_lea_model.py" />
+    <entry file="file://$PROJECT_DIR$/Amino_project/test_sc_jo_lea_community/testcase_sc_joi_lea.py" />
+    <entry file="file://$PROJECT_DIR$/Amino_project/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/the_first_auto_script.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="31" column="57" lean-forward="true" selection-start-line="31" selection-start-column="57" selection-end-line="31" selection-end-column="57" />
+        <state>
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/unittest_project/baidutest/baidurun.py">
+    <entry file="file:///usr/local/lib/python3.7/site-packages/selenium/webdriver/common/action_chains.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-end-line="42" />
+        <state relative-caret-position="499">
+          <caret line="56" column="25" selection-start-line="56" selection-start-column="25" selection-end-line="56" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/casual_issue/element_locate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/casual_issue/other_issue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest_project/testpro/testadd.py" />
+    <entry file="file://$PROJECT_DIR$/unittest_project/testpro/testmul.py" />
+    <entry file="file://$PROJECT_DIR$/unittest_project/testpro/testsub.py" />
+    <entry file="file://$PROJECT_DIR$/unittest_project/testpro/runtest.py" />
+    <entry file="file://$PROJECT_DIR$/unittest_project/testpro/count.py" />
+    <entry file="file://$PROJECT_DIR$/unittest_project/calculator.py" />
+    <entry file="file://$PROJECT_DIR$/unittest_project/testpro/testdev.py" />
+    <entry file="file://$PROJECT_DIR$/auto_test_model/auto_test_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="66" selection-start-line="22" selection-start-column="66" selection-end-line="22" selection-end-column="66" />
           <folding>
-            <element signature="e#0#20#0" expanded="true" />
+            <element signature="e#1467#1497#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Amino_project/test_signup_login/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unittest_project/testpro/runtest.py">
+    <entry file="file:///usr/local/Cellar/python/3.7.3/Frameworks/Python.framework/Versions/3.7/lib/python3.7/test/test_httpservers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        <state relative-caret-position="160">
+          <caret line="138" column="13" selection-start-line="138" selection-start-column="13" selection-end-line="138" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Amino_project/test_signup_login/report_signup_login/Sun Aug  4 15:25:57 2019.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amino_project/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/草稿本.py">
+    <entry file="file://$PROJECT_DIR$/unittest_frame/run_test.py" />
+    <entry file="file://$PROJECT_DIR$/Amino_project/test_signup_login/signup_login_model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="74" selection-start-line="13" selection-start-column="74" selection-end-line="13" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amino_project/test_sc_jo_lea_community/runtest.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unittest_project/testpro/testdev.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/unittest_project/testcase.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="68" column="21" lean-forward="true" selection-start-line="68" selection-start-column="21" selection-end-line="68" selection-end-column="21" />
-          <folding>
-            <element signature="e#17#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amino_project/test_sc_jo_lea_community/report_sc_jo_lea/testcase_sc_jo_lea.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amino_project/test_sc_jo_lea_community/tesecase_sc_jo_lea.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amino_project/test_sc_jo_lea_community/notname/test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amino_project/test_sc_jo_lea_community/testname/test1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amino_project/test_sc_jo_lea_community/runtest_sc_jo_lea.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amino_project/test_sc_jo_lea_community/sc_jo_lea_model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amino_project/test_sc_jo_lea_community/testcase_sc_joi_lea.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amino_project/test_signup_login/testcase_signup_log_in.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="584">
-          <caret line="47" column="26" lean-forward="true" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
+        <state relative-caret-position="828">
+          <caret line="47" column="12" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/unittest_project/testpro/testadd.py">
+    <entry file="file://$PROJECT_DIR$/Amino_project/test_signup_login/testcase_signup_log_in.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="27" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="7" selection-end-column="27" />
+        <state relative-caret-position="380">
+          <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/casual_issue/other_issue.py">
+    <entry file="file://$PROJECT_DIR$/Amino_project/Explore_search_browse/explore_search_browse_model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amino_project/test_signup_login/signup_login_model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="47" column="12" lean-forward="true" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
+        <state relative-caret-position="153">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
@@ -798,41 +705,128 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Amino_project/Explore_search_browse/testcase_exp_sea_bro.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="12" column="37" lean-forward="true" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
+        <state relative-caret-position="228">
+          <caret line="12" column="37" selection-start-line="12" selection-start-column="37" selection-end-line="12" selection-end-column="37" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic/webdriver_API.py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="323" column="54" selection-start-line="323" selection-start-column="54" selection-end-line="323" selection-end-column="54" />
+        <state relative-caret-position="513">
+          <caret line="323" column="59" lean-forward="true" selection-start-line="323" selection-start-column="43" selection-end-line="323" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amino_project/Explore_search_browse/report_ex_sea_brow/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/local/lib/python3.7/site-packages/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="609" column="8" selection-start-line="609" selection-start-column="8" selection-end-line="609" selection-end-column="8" />
+          <folding>
+            <element signature="e#3215#3230#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/time.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest_frame/webdriver_API.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Amino_project/test_signup_login/runtest.py">
+    <entry file="file://$PROJECT_DIR$/unittest_frame/runtest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest_frame/basic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-315">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest_frame/send_email.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
           <folding>
-            <element signature="e#365#380#0" expanded="true" />
+            <element signature="e#0#14#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Amino_project/Explore_search_browse/explore_search_browse_model.py">
+    <entry file="file://$PROJECT_DIR$/unittest_project/baidutest/baidurun.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest_project/baidutest/baidu_test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unittest_project/baidutest/baidu_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/草稿本.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2430">
+          <caret line="162" selection-start-line="162" selection-end-line="172" selection-end-column="13" />
+          <folding>
+            <marker date="1586778782746" expanded="true" signature="1588:1845" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common_function/bdaction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-147">
+          <caret line="2" column="12" lean-forward="true" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/note/casual_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="47" column="14" lean-forward="true" selection-start-line="47" selection-start-column="14" selection-end-line="47" selection-end-column="14" />
         </state>
       </provider>
     </entry>
